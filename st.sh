@@ -1,0 +1,1 @@
+java -Xmx512MB -Xms512MB -jar b1.8.1.jar
